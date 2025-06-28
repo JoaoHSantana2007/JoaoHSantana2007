@@ -1,10 +1,10 @@
-## Hello, I'm Joao Santana!
+# Hello, I'm Joao Santana!
 
 <a href="https://github.com/JoaoHSantana2007">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoHSantana2007&theme=transparent" />
 </a>
 <a href="https://github.com/JoaoHSantana2007">
-  <img height=200 width="450" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoHSantana2007&layout=compact&langs_count=8&card_width=3&theme=transparent" /> 
+  <img height=200 width="450" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoHSantana2007&layout=compact&langs_count=8&card_width=0&theme=transparent" /> 
 </a>
 
 ## 
