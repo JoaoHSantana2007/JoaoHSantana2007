@@ -1,12 +1,8 @@
 # Hello, I'm Joao Santana!
 
 <div> 
-  <a href="https://github.com/JoaoHSantana2007">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoHSantana2007&theme=transparent" />
-  </a>
-  <a href="https://github.com/JoaoHSantana2007">
     <img height=200 width="450" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoHSantana2007&layout=compact&langs_count=8&card_width=320&theme=transparent" /> 
-  </a>
 </div>
 
 ## 
