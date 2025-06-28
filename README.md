@@ -4,15 +4,15 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoHSantana2007&theme=transparent" />
 </a>
 <a href="https://github.com/JoaoHSantana2007">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoHSantana2007&layout=compact&langs_count=8&card_width=3&theme=transparent" /> 
+  <img height=200 width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoHSantana2007&layout=compact&langs_count=8&card_width=3&theme=transparent" /> 
 </a>
 
 ## 
 
 <div> 
-  <img align="center" alt="Joao-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />      
-  <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Joao-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />  
+  <img align="center" alt="Joao-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />      
+  <img align="center" alt="Joao-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Joao-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />  
 </div>
 
 ##
