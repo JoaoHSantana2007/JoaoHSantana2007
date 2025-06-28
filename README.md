@@ -1,4 +1,4 @@
-# Hello, I'm Joao Santana!https://github-readme-stats.vercel.app/api
+# Hello, I'm Joao Santana!
 
 <a href="https://github.com/joaoHSantana2007">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoHSantana2007&card_width=320&theme=transparent" />
