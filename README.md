@@ -11,7 +11,6 @@
 
 <div> 
   <img align="center" alt="Joao-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />   
-  <img align="center" alt="Joao-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />  
 </div>
 
 ##
