@@ -1,10 +1,11 @@
 <h1 align="center">Olá 👋, Eu sou João Henrique Santana</h1>
 
-###
-
+### 🚀 About Me
 <h4 align="center">Sou estudante de ciências da computação na Universidade Católica de Brasília, busco desenvolver sistemas eficientes para que as pessoas possam desfrutar melhor da tecnologia.</h4>
 
-###
+---
+
+### 📞 My Contacts
 
 <div align="left">
   <a href="https://www.linkedin.com/in/joao-henrique-santana-132076320/" target="_blank">
@@ -21,7 +22,9 @@
   </a>
 </div>
 
-###
+---
+
+### 🛠️ My Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -35,14 +38,16 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
 
-###
+---
+
+### 📊 My GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoaoHSantana2007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoHSantana2007&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2&custom_title=Linguagens" height="150" alt="languages graph"  />
 </div>
 
-###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoHSantana2007/JoaoHSantana2007/output/pacman-contribution-graph-dark.svg">
