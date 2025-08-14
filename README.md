@@ -1,11 +1,30 @@
-<h1 align="center">Olá 👋, Eu sou João Henrique Santana</h1>
+<h1 align="center">Olá 👋, Eu sou João Henrique Santana<br>A melhor maneira de prever o futuro é criá-lo.</h1>
 
-### 🚀 About Me
-<h4 align="center">Sou estudante de ciências da computação na Universidade Católica de Brasília, busco desenvolver sistemas eficientes para que as pessoas possam desfrutar melhor da tecnologia.</h4>
+###
 
----
+<h1 align="left">🚀 Sobre mim</h1>
 
-### 📞 My Contacts
+###
+
+<img align="right" height="100" src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif"  />
+
+###
+
+- 🏫 Estudante da graduação ciências da computação na Universidade Católica De Brasília. 
+- 💻 Estudante e entusiasta de programação.
+- 📚 Sempre aprendendo novas tecnologias.
+- 🎯 Interesses: desenvolvimento de software, automação e otimização de processos.
+
+###
+
+## 📂 Projetos em destaque
+- 📌 [CadStore](https://github.com/JoaoHSantana2007/CadStore) – Sistema de cadastro e pesquisa de clientes/funcionários.
+
+###
+
+<h1 align="left">🌐 Onde me encontrar</h1>
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/joao-henrique-santana-132076320/" target="_blank">
@@ -22,9 +41,11 @@
   </a>
 </div>
 
----
+###
 
-### 🛠️ My Tech Stack
+<h1 align="left">🛠️ Tecnologias & Ferramentas</h1>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -38,23 +59,15 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
 
----
+###
 
-### 📊 My GitHub Stats
+<h1 align="left">📊 Estatísticas do GitHub</h1>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoaoHSantana2007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoHSantana2007&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2&custom_title=Linguagens" height="150" alt="languages graph"  />
 </div>
-
-
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoHSantana2007/JoaoHSantana2007/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoHSantana2007/JoaoHSantana2007/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoaoHSantana2007/JoaoHSantana2007/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
