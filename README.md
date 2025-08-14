@@ -72,4 +72,4 @@
 
 ###
 
-![snake gif](https://github.com/JoaoHSantana2007/JoaoHSantana2007/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/JoaoHSantana2007/JoaoHSantana2007/blob/output/github-contribution-grid-snake.gif)
