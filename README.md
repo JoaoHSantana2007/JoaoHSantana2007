@@ -18,7 +18,8 @@
 ###
 
 ## 📂 Projetos em destaque
-- 📌 [CadStore](https://github.com/JoaoHSantana2007/CadStore) – Sistema de cadastro e pesquisa de clientes/funcionários.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoHSantana2007&repo=CadStore&them=githubdark&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
@@ -65,10 +66,12 @@
 
 ###
 
-<div align="center">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=JoaoHSantana2007&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoHSantana2007&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2&custom_title=Linguagens" height="150" alt="languages graph"  />
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoHSantana2007&theme=github_dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoHSantana2007&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
+</a>
 
 ###
 
