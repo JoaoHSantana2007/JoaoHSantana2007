@@ -19,7 +19,7 @@
 
 ## 📂 Projetos em destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoHSantana2007&repo=CadStore&them=githubdark&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoHSantana2007&repo=CadStore&them=githubdark&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
@@ -67,10 +67,10 @@
 ###
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoHSantana2007&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoHSantana2007&theme=shadow_blue" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoHSantana2007&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoHSantana2007&layout=compact&langs_count=8&card_width=320&theme=shadow_blue" />
 </a>
 
 ###
