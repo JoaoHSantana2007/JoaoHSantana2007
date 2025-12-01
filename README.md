@@ -19,7 +19,14 @@
 
 ## 📂 Projetos em destaque
 
+- Farma Vite — Concluído  
+  Repositório: https://github.com/JoaoHSantana2007/Farma-Vite  
 
+- Reapta Inclusiva — Em produção  
+  Repositório: https://github.com/JoaoHSantana2007/Reapta-Inclusiva  
+
+- Biel Cup — Concluído  
+  Repositório: https://github.com/JoaoHSantana2007/Biel-Cup  
 
 ###
 
@@ -44,23 +51,9 @@
 
 ###
 
-<h1 align="left">🛠️ Tecnologias & Ferramentas</h1>
-
-###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=css,js,ts,react,nodejs,github,git,vscode,docker" height="40" alt="tools"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,github,git,vscode,docker" height="40" alt="tools"  />
 </div>
-
-###
-
-<h1 align="left">📊 Estatísticas do GitHub</h1>
 
 ###
 
