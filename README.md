@@ -19,9 +19,7 @@
 
 ## 📂 Projetos em destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoHSantana2007&repo=Farma-Vite&them=githubdark&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoHSantana2007&repo=Reapta-inclusiva&them=githubdark&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoHSantana2007&repo=Biel-Cup&them=githubdark&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ###
 
@@ -63,12 +61,6 @@
 ###
 
 <h1 align="left">📊 Estatísticas do GitHub</h1>
-
-###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoHSantana2007&show_icons=true&locale=en&layout=compact"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoHSantana2007&show_icons=true&locale=en"/></p>
 
 ###
 
