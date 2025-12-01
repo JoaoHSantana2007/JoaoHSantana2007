@@ -23,6 +23,14 @@
 
 ###
 
+<h3 align="left">Meus projetos</h3>
+
+- [farma-vite](https://github.com/JoaoHSantana2007/farma-vite) — Concluído ✅
+- [reapta-inclusiva](https://github.com/JoaoHSantana2007/reapta-inclusiva) — Trabalhando ⚙️
+- [CadStore](https://github.com/JoaoHSantana2007/CadStore) — (exemplo)
+
+###
+
 <h1 align="left">🌐 Onde me encontrar</h1>
 
 ###
@@ -55,9 +63,7 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=css,js,ts,react,nodejs,github,git,vscode,docker" height="40" alt="tools"  />
 </div>
 
 ###
