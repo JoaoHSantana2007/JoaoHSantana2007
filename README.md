@@ -19,15 +19,9 @@
 
 ## 📂 Projetos em destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoHSantana2007&repo=CadStore&them=githubdark&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
-
-###
-
-<h3 align="left">Meus projetos</h3>
-
-- [farma-vite](https://github.com/JoaoHSantana2007/farma-vite) — Concluído ✅
-- [reapta-inclusiva](https://github.com/JoaoHSantana2007/reapta-inclusiva) — Trabalhando ⚙️
-- [CadStore](https://github.com/JoaoHSantana2007/CadStore) — (exemplo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoHSantana2007&repo=Farma-Vite&them=githubdark&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoHSantana2007&repo=Reapta-inclusiva&them=githubdark&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoHSantana2007&repo=Biel-Cup&them=githubdark&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
