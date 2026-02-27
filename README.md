@@ -22,12 +22,6 @@
 - Farma Vite — Concluído  
   Repositório: https://github.com/JoaoHSantana2007/Farma-Vite  
 
-- Reapta Inclusiva — Em produção  
-  Repositório: https://github.com/JoaoHSantana2007/Reapta-Inclusiva  
-
-- Biel Cup — Concluído  
-  Repositório: https://github.com/JoaoHSantana2007/Biel-Cup  
-
 ###
 
 <h1 align="left">🌐 Onde me encontrar</h1>
